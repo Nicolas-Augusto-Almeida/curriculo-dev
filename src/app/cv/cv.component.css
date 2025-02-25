@@ -1,9 +1,21 @@
 body {
-    background-color: #f5f5f5
+  background-color: #f5f5f5;
+  font-family: Arial, Helvetica, sans-serif;
+  p {
+    font-size: 25px;
+  }
+  h1 {
+    font-size: 50px;
+  }
   }
   .flex-container {
     display: flex;
     justify-content: space-around;
     padding: 20px;
     background-color: #155D4F;
+    font-size: 25px;
+  }
+  .coluna1 {
+    color: #f5f5f5;
+    font-size: 50px;
   }
