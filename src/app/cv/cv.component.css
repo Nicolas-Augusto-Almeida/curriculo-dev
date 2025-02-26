@@ -37,4 +37,12 @@ body {
   .list {
     font-size: 25px;
   }
-  
+  .imagem {
+    width: 150px;
+    height: auto;
+    display: block;
+    align-self: auto;
+  }
+  .contacts {
+    font-size: 25px;
+  }
